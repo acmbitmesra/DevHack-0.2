@@ -1,5 +1,9 @@
 # DevHack-0.2
 
+We all know that Software Development is a significant part of today’s world. There are certain things that every Software Engineer should know.“DevHack-0.2” consists of interesting development tasks.
+
+This online event will begin from very basic tasks which can be done by anyone irrespective of their experience in dev. We will be sharing relevant resources for doing these tasks.
+
 <h3><b>Some points to consider:</b></h3>
 <ul>
 <li>This is a competitive event, but it’s main motive will always be learning. Try to make most out of the tasks given in this events. The tasks are given with careful consideration and they will come handy in future for sure.</li><br />
