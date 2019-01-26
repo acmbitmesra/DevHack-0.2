@@ -1,9 +1,8 @@
 <h1>Task-0: “Local Web page hosting”</h1>
-<hr/>
 
 <br /><br />
 
-<<p align="center">>
+<p align="center">
 <img src="https://github.com/aayushsinha44/DevHack-0.2/blob/master/task-0/meme.PNG" />
 </p>
 
@@ -21,7 +20,7 @@ The name of your team members with their details (Roll Number and GitHub URL).
   <li>https://httpd.apache.org/docs/2.4/platform/windows.html</li> 
 </ul>
 <br />
-<h3><b>Deadline: 3rd January 2019 11.59 PM</b><h3>
+<h3><b>Deadline: 3rd January 2019 11.59 PM</b></h3>
 
 After this task, you can tell anyone “I have hosted a website on my college LAN”!
 
