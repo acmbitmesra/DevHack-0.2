@@ -11,8 +11,7 @@
 <li>The points will be given to the teams in a relative manner of submissions.</li><br />
 
 
-A good developer is a person who knows “How to search on internet”, “What to search on internet”, and “What to extract from the search results”. Searching is also a skill 
-[Effectively] (https://blog.hubspot.com/marketing/google-advanced-search-tips)
+<li>A good developer is a person who knows “How to search on internet”, “What to search on internet”, and “What to extract from the search results”. Searching is also a skill <a href="https://blog.hubspot.com/marketing/google-advanced-search-tips">Searching</a></li><br />
 
 
 <li>Experiment with the stuff you have done. (May be first give the right stuff for evaluation :P)</li>
