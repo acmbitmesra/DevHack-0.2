@@ -19,6 +19,8 @@ More to come...
 
 <li>Although, we have given you the resources to complete the tasks, we also expect you to search for the doubts you encounter on the internet, watch youtube videos for learning stuff, and also read good blogs/articles.</li><br />
 
+<li>If you think that the resources given are not enough, read the previous point again. We just don't want to spoonfeed you. :) </li><br />
+
 
 <li>The points will be given to the teams in a relative manner of submissions.</li><br />
 
