@@ -8,8 +8,8 @@ The first edition "DevHack-0.1" was organised in 2017 by 2K13 batch. This is the
 
 This online event begin from very basic tasks which can be done by anyone irrespective of their experience in dev. We will be also sharing relevant resources for doing these tasks.
 
-The tasks can be found below:
-1. [Task-0](https://github.com/aayushsinha44/DevHack-0.2/tree/master/task-0#task-0-local-website-hosting)
+<h3>The tasks can be found below:</h3>
+<a href="https://github.com/aayushsinha44/DevHack-0.2/tree/master/task-0#task-0-local-website-hosting">1. Task-0</a>
 More to come...
 
 <h3><b>Some points to consider:</b></h3>
