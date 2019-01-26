@@ -1,4 +1,4 @@
-<h1>Task-0: “Local Web page hosting”</h1>
+<h1>Task-0: “Local Website Hosting”</h1>
 
 <p align="center">
 <img src="https://github.com/aayushsinha44/DevHack-0.2/blob/master/task-0/meme.PNG" />
@@ -14,11 +14,13 @@ The name of your team members with their details (Roll Number and GitHub URL).
 
 <h3><b>Resources:</b></h3>
 <ul>
-  <li>http://nginx.org/en/</li>
+  <li>https://nginx.org/en/</li>
   <li>https://httpd.apache.org/docs/2.4/platform/windows.html</li> 
 </ul>
-<br />
+
 <h3><b>Deadline: 3rd January 2019 11.59 PM</b></h3>
+
+You are also welcome to show your creativity on the tasks given.
 
 After this task, you can tell anyone “I have hosted a website on my college LAN”!
 
