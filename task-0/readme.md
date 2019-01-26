@@ -21,6 +21,8 @@ Your task is to create a very simple web page (using html) and host that on LAN 
 
 <h3><b>Deadline: 3rd January 2019 11.59 PM</b></h3>
 
+<b>Before attempting the given task, we request you to read [this](https://github.com/aayushsinha44/DevHack-0.2#some-points-to-consider).</b>
+
 You are also welcome to show your creativity on the tasks given.
 
 After this task, you can tell anyone “I have hosted a website on my college LAN”!
