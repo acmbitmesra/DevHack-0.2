@@ -1,7 +1,5 @@
 <h1>Task-0: “Local Web page hosting”</h1>
 
-<br /><br />
-
 <p align="center">
 <img src="https://github.com/aayushsinha44/DevHack-0.2/blob/master/task-0/meme.PNG" />
 </p>
