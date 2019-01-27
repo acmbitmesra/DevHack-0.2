@@ -15,6 +15,7 @@ Your task is to create a very simple web page (using html) and host that on LAN 
 </ul>
 <h3><b>Resources:</b></h3>
 <ul>
+  <li><a href="https://www.youtube.com/watch?v=bWPMSSsVdPk">Learn HTML in 12 minutes</a></li>
   <li>https://nginx.org/en/</li>
   <li>https://httpd.apache.org/</li> 
 </ul>
