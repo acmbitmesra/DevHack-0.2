@@ -36,7 +36,7 @@ More to come...
 <li>You are also welcome to show your creativity on the tasks given.</li><br />
 
 
-<li>If you are stuck on a problem for too long, don’t feel shy to ask us doubts. We’ll try to help you. :)</li><br />
+<li><b>If you are stuck on a problem for too long, don’t feel shy to ask us doubts. We’ll try to help you.</b></li><br />
 
 
 <li>Please don’t get demotivated. Persistence is the key. For motivation, watch Jay Shetty or Sandeep Maheshwari’s videos on youtube. (>_<)</li><br />
