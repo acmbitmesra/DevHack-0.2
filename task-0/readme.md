@@ -4,7 +4,7 @@
 <img src="https://github.com/aayushsinha44/DevHack-0.2/blob/master/task-0/meme.PNG" />
 </p>
 
-Ever wondered how Aurora (Coding Judge) is hosted on the LAN of BIT Mesra? The simple answer is "It is a website that is hosted using a [web server](https://whatis.techtarget.com/definition/Web-server)". Two of the most popular web server softwares are [Nginx](https://www.nginx.com/resources/wiki/) and [Apache](https://httpd.apache.org/). 
+Ever wondered how Aurora (Coding Judge) is hosted on the LAN of BIT Mesra? The simple answer is "It is a website that is hosted using a [web server](https://whatis.techtarget.com/definition/Web-server)". Two of the most popular web server softwares are [Nginx](https://www.nginx.com/resources/wiki/) and [Apache](https://www.wpbeginner.com/glossary/apache/). 
 
 Your task is to create a very simple web page (using html) and host that on LAN using Nginx or Apache. The web page should be accessible through your computer IP over LAN.
 
@@ -25,7 +25,9 @@ Your task is to create a very simple web page (using html) and host that on LAN 
 
 You are also welcome to show your creativity on the tasks given.
 
-After this task, you can tell anyone “I have hosted a website on my college LAN”!
+We feel that Linux users will learn much more while doing this task. No need to worry Windows and Mac users!! :P
+
+<b>After this task, you can tell anyone “I have hosted a website on my college LAN”!</b>
 
 
 Fill the below form, when you have successfully done the task. Also, write the things you learnt, and approach you followed to do the task. This will help us to improve the tasks in future. :)
