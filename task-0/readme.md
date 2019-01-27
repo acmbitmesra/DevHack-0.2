@@ -16,7 +16,7 @@ Your task is to create a very simple web page (using html) and host that on LAN 
 <h3><b>Resources:</b></h3>
 <ul>
   <li>https://nginx.org/en/</li>
-  <li>https://httpd.apache.org/docs/2.4/platform/windows.html</li> 
+  <li>https://httpd.apache.org/</li> 
 </ul>
 
 <h3><b>Deadline: 3rd January 2019 11.59 PM</b></h3>
