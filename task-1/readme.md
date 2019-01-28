@@ -9,7 +9,7 @@
 Meme Credits: Sarthak Gupta
 </p>
 
-Ever wondered how Aurora (Coding Judge) is hosted on the LAN of BIT Mesra? The simple answer is "It is a website that is hosted using a [web server](https://whatis.techtarget.com/definition/Web-server)". Two of the most popular web server softwares are [Nginx](https://www.nginx.com/resources/wiki/) and [Apache](https://www.wpbeginner.com/glossary/apache/). 
+Ever wondered how Aurora (Coding Judge) is hosted on the LAN of BIT Mesra? The simple answer is "It is a website that is hosted using a [web server](https://whatis.techtarget.com/definition/Web-server)". Two of the most popular web server softwares are [Nginx](https://www.nginx.com/resources/wiki/) and [Apache](https://www.wpbeginner.com/glossary/apache/). The Webserver runs on a computer connected to the LAN.
 
 Your task is to create a very simple web page (using html) and host that on LAN using Nginx or Apache. The web page should be accessible through your computer IP over LAN.
 
