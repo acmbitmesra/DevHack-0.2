@@ -15,7 +15,7 @@ Coordinators for the event:<ul>
 
 <h3>The tasks can be found below:</h3>
 <ol>
-<li><a href="https://github.com/aayushsinha44/DevHack-0.2/tree/master/task-0#task-0-local-website-hosting">Task-1</a></li>
+<li><a href="https://github.com/acmbitmesra/DevHack-0.2/tree/master/Task-1#Task-1-local-website-hosting">Task-1</a></li>
 </ol>
 <br />More to come...
 
