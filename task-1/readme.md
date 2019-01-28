@@ -25,7 +25,7 @@ Your task is to create a very simple web page (using html) and host that on LAN 
   <li>https://httpd.apache.org/</li> 
 </ul>
 
-<h3><b>Deadline: 3rd January 2019 11.59 PM</b></h3>
+<h3><b>Deadline: 3rd February 2019 11.59 PM</b></h3>
 
 <b>Before attempting the given task, we request you to read [this](https://github.com/acmbitmesra/DevHack-0.2#some-points-to-consider).</b>
 
