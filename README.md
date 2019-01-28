@@ -9,13 +9,13 @@ The first edition "DevHack-0.1" was organised in 2017 by 2K13 batch. This is the
 This online event begin from very basic tasks which can be done by anyone irrespective of their experience in dev. We will be also sharing relevant resources for doing these tasks.
 
 Coordinators for the event:<ul>
-<li> Aayush Sinha </li>
-<li> Sarthak Gupta </li>
+<li> <a href="https://www.facebook.com/aayushsinha44">Aayush Sinha</a> </li>
+<li> <a href="https://www.facebook.com/sarthakgupta072">Sarthak Gupta</a> </li>
 </ul>
 
 <h3>The tasks can be found below:</h3>
 <ol>
-<li><a href="https://github.com/aayushsinha44/DevHack-0.2/tree/master/task-0#task-0-local-website-hosting">Task-0</a></li>
+<li><a href="https://github.com/aayushsinha44/DevHack-0.2/tree/master/task-0#task-0-local-website-hosting">Task-1</a></li>
 </ol>
 <br />More to come...
 
