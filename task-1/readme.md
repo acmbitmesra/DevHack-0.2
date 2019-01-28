@@ -33,4 +33,8 @@ We feel that Linux users will learn much more while doing this task. No need to 
 
 Fill the below form, when you have successfully done the task. Also, write the things you learnt, and approach you followed to do the task. This will help us to improve the tasks in future. :)
 
+After submitting the form you need to contact your assigned coordinator for evaluation and a small follow up task.
+
 <h3><b>Submission Form Link: https://goo.gl/forms/Muz8Bv7DPWL8J01h2</b></h3>
+
+<h3><b>You can find your assigned coordinator <a href="https://goo.gl/LhBifq">here</a>.</b></h3>
