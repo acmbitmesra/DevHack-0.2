@@ -8,7 +8,7 @@ Ever wondered how Aurora (Coding Judge) is hosted on the LAN of BIT Mesra? The s
 
 Your task is to create a very simple web page (using html) and host that on LAN using Nginx or Apache. The web page should be accessible through your computer IP over LAN.
 
- <h3>The web page should contains the following things:</h3>
+ <h3>The web page should contain the following things:</h3>
 <ul>
 <li> Your Team Name
 <li> The name of your team members with their details (Roll Number and GitHub URL).
