@@ -33,6 +33,8 @@ You are also welcome to show your creativity on the tasks given.
 
 We feel that Linux users will learn much more while doing this task. No need to worry Windows and Mac users!! :P
 
+<b>Note:</b> There are no extra points for the "design of the website". The main aim of this task is to learn "How to host a website". That's it!
+
 <b>After this task, you can tell anyone “I have hosted a website on my college LAN”!</b>
 
 
