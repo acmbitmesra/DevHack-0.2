@@ -1,7 +1,12 @@
 <h1>Task-1: “Local Website Hosting”</h1>
 
 <p align="center">
-<img src="https://github.com/acmbitmesra/DevHack-0.2/blob/master/task-1/meme.PNG" />
+<img src="https://github.com/acmbitmesra/DevHack-0.2/blob/master/task-1/meme.PNG"/>
+</p>
+
+
+<p align="center">
+Meme Credits: Sarthak Gupta
 </p>
 
 Ever wondered how Aurora (Coding Judge) is hosted on the LAN of BIT Mesra? The simple answer is "It is a website that is hosted using a [web server](https://whatis.techtarget.com/definition/Web-server)". Two of the most popular web server softwares are [Nginx](https://www.nginx.com/resources/wiki/) and [Apache](https://www.wpbeginner.com/glossary/apache/). 
