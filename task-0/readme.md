@@ -1,4 +1,4 @@
-<h1>Task-0: “Local Website Hosting”</h1>
+<h1>Task-1: “Local Website Hosting”</h1>
 
 <p align="center">
 <img src="https://github.com/aayushsinha44/DevHack-0.2/blob/master/task-0/meme.PNG" />
