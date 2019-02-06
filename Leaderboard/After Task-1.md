@@ -8,5 +8,7 @@
   <tr>
     <td>29</td><td>3</td><td>Kuch Bhi</td><td>80</td><td><a href = "https://github.com/nikunjagarwal321">Nikunj Agarwal</a></td><td></td><td></td>
   </tr>
+  <tr>
+    <td>3</td><td>1</td><td>n00b_coders</td><td>100</td><td><a href = "https://github.com/PyAgni">Agni Bhattacharyya</a></td><td><a href = "https://github.com/aaradhya15">Aaradhya Jain</a></td><td><a href = "https://github.com/priyam125">Priyam</a></td>
+  </tr>
  </table>
-
