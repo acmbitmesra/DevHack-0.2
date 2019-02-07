@@ -22,7 +22,7 @@ Submit the form below when you have completed this sub-task.
 
 2. Several people messaged us about "When the leaderboard will be released?". The thing is, we are too lazy to publish a leaderboard for you on GitHub repo. :P No need to fill a separate form for this.
 
-Your task is to create a leaderboard <a href = "https://github.com/acmbitmesra/DevHack-0.2/blob/master/Leaderboard/After%20Task-1">here</a>. 
+Your task is to create a leaderboard <a href = "https://github.com/acmbitmesra/DevHack-0.2/blob/master/Leaderboard/After%20Task-1.md">here</a>. 
 
 Each team member will send us a pull request to add them to the leaderboard in the following format:
 
@@ -42,13 +42,13 @@ Each team member will send us a pull request to add them to the leaderboard in t
 </table>
 
 
-The description of pull request should be "S.No-Rank-TeamName". For example "1-1-ACM Dev Waale".
+The title of pull request should be "S.No-Rank-TeamName". For example "1-1-ACM Dev Wing".
 
 In the above example, the team has two members. So, each member will send a separate pull request adding the relevant info. If the pull request is wrong, we'll close the pull request.
 
 Clarification: https://github.com/acmbitmesra/DevHack-0.2/issues/1
 
-<h3>The leaderboard should be made <a href = "https://github.com/acmbitmesra/DevHack-0.2/blob/master/Leaderboard/After%20Task-1"> here. </a></h3>
+<h3>The leaderboard should be made <a href = "https://github.com/acmbitmesra/DevHack-0.2/blob/master/Leaderboard/After%20Task-1.md"> here. </a></h3>
 <h3>The excelsheet leaderboard can be accessed <a href = "https://docs.google.com/spreadsheets/d/12n6Yqcz_cKsqPDzstzg47piCqYxdgsGOd4eE4ggLwVY/edit?usp=sharing"> here.</a></h3>
 Incase there is any confusion, or we have missed your name, please contact us.
 <h3>Submission form link: https://goo.gl/forms/pzIyZHxuONjvJxQj2 </h3> 
