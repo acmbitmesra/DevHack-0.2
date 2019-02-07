@@ -42,7 +42,7 @@ Each team member will send us a pull request to add them to the leaderboard in t
 </table>
 
 
-The description of pull request should be "S.No-Rank-TeamName". For example "1-1-ACM Dev Waale".
+The title of pull request should be "S.No-Rank-TeamName". For example "1-1-ACM Dev Waale".
 
 In the above example, the team has two members. So, each member will send a separate pull request adding the relevant info. If the pull request is wrong, we'll close the pull request.
 
