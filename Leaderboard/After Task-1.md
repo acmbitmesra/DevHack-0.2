@@ -24,7 +24,7 @@
     <td>29</td><td>3</td><td>Kuch Bhi</td><td>80</td><td><a href = "https://github.com/nikunjagarwal321">Nikunj Agarwal</a></td><td><a href = "https://github.com/abbas5253">Abbas Ismail</td><td></td>
   </tr>
   <tr>
-    <td>32</td><td>3</td><td>PACMEN</td><td>80</td><td><a href = "https://github.com/anshuman10398">Anshuman Singh</a></td><td><a href = "https://github.com/sohamantrolikar">Soham Antrolikar</a></td><td></td>
+    <td>32</td><td>3</td><td>PACMEN</td><td>80</td><td><a href = "https://github.com/anshuman10398">Anshuman Singh</a></td><td><a href = "https://github.com/sohamantrolikar">Soham Antrolikar</a></td><td><a href = "https://github.com/chay2199">Chaitanya Tyagi</a></td>
   </tr>
   <tr>
   <td>40</td><td>5</td><td>indian5230</td><td>60</td><td><a href="https://github.com/Rohit-5230">Rohit kumar singh</a></td><td></td><td></td>
