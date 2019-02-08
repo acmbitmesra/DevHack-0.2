@@ -37,7 +37,7 @@ Each team member will send us a pull request to add them to the leaderboard in t
     <td colspan="7"> Team who have not completed task-1 because of some reason are mentioned below</td>
   </tr>
   <tr>
-    <td>2</td><td>0</td><td>ACM CP Wing</td><td>0</td><td><a href = "">Aayush ka dost</a></td><td><a href = "">Sarthak ka dost</a></td><td></td>
+    <td>2</td><td>N/A</td><td>ACM CP Wing</td><td>0</td><td><a href = "">Aayush ka dost</a></td><td><a href = "">Sarthak ka dost</a></td><td></td>
   </tr>
 </table>
 
