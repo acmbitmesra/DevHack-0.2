@@ -12,7 +12,8 @@ It will consist of build(.exe) file written in C/C++ language and should have th
 For submission follow the given steps:
 1. Fork the repo.
 2. Create a folder in this format: DevHack-0.2/task-2/advance/submissions/Your-Team-Name/.
-3. This folder should contain your code, build(.exe) and readme.md which contains your team information.
+3. This folder should contain your build(.exe) and readme.md which contains your team information.
 4. Give a pull request.
+5. After that contact any of the coordinators for evaluations.
 
 <b>The top submission for this task may get some perks from ACM BIT Mesra.</b>
