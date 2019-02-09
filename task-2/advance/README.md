@@ -7,6 +7,8 @@ It will consist of build(.exe) file written in C/C++ language and should have th
 1. When the build file is kept inside the folder and is executed, it should ask for ip and port.
 2. Now this folder is treated as root and all the static files should be served over lan as per there relative path.
  
+<b>Donot use external libraries. Use only built in libraries of C/C++.</b>
+
 For submission follow the given steps:
 1. Fork the repo.
 2. Create a folder in this format: DevHack-0.2/task-2/advance/submissions/Your-Team-Name/.
