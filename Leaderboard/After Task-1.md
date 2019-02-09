@@ -29,6 +29,9 @@
   <tr>
   <td>40</td><td>5</td><td>indian5230</td><td>60</td><td><a href="https://github.com/Rohit-5230">Rohit kumar singh</a></td><td></td><td></td>
   </tr>
+    <tr>
+  <td>41</td><td>5</td><td>bug_hunters</td><td>60</td><td><a href="https://github.com/aryan2906">Aryan Khandelwal</a></td><td></td><td></td>
+  </tr>
   
 </table>
 
