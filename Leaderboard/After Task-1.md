@@ -3,7 +3,7 @@
   <th>S.No.</th><th>Rank</th><th>Team Name</th><th>Points</th><th>Member 1</th><th>Member 2</th><th>Member 3</th>
   </tr>
     <tr>
-  <td>1</td><td>1</td><td>bug_hunters</td><td>100</td><td><a href="https://github.com/aryan2906">Aryan Khandelwal</a></td><td><a href="https://github.com/alokratn62">Tanmay Sinha</a></td><td></td>
+  <td>1</td><td>1</td><td>bug_hunters</td><td>100</td><td><a href="https://github.com/aryan2906">Aryan Khandelwal</a></td><td><a href="https://github.com/alokratn62">Tanmay Sinha</a></td><td><a href="https://github.com/IshaanG">Ishaan Gupta</a></td>
   </tr>
   <tr>
     <td>9</td><td>1</td><td>Dank</td><td>100</td><td><a href = "https://github.com/madhavkauntia">Madhav Kauntia</a></td><td><a href="https://github.com/ygyash">Yash Goyal</a></td><td><a href="https://github.com/skbro">Sanskar Agarwal</a></td>
