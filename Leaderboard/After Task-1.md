@@ -15,7 +15,7 @@
     <td>16</td><td>2</td><td>_destroyingRecursively_</td><td>90</td><td><a href = "https://github.com/ankurdubey521">Ankur Dubey</a></td><td><a href = "https://github.com/saksham20189575">Saksham Arora</a></td><td></td>
   </tr>
   <tr>
-  <td>20</td><td>2</td><td>ITS_One</td><td>90</td><td><a href = "https://github.com/Abhinav-grd">Abhinav Kumar</a></td><td></td><td></td>
+  <td>20</td><td>2</td><td>ITS_One</td><td>90</td><td><a href = "https://github.com/Abhinav-grd">Abhinav Kumar</a></td><td><a href = "https://github.com/RahulRexx">Rahul Agarwal</a></td><td></td>
   </tr>
   <tr>
   <td>26</td><td>3</td><td>Contigo101</td><td>80</td><td><a href="https://github.com/rajayush012">Ayush Raj</a></td><td><a href="https://github.com/SamriddhiShrivas">Samriddhi Shrivas</a></td><td></td>
