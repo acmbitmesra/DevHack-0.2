@@ -17,11 +17,14 @@
   <tr>
   <td>20</td><td>2</td><td>ITS_One</td><td>90</td><td><a href = "https://github.com/Abhinav-grd">Abhinav Kumar</a></td><td></td><td></td>
   </tr>
+  <tr>
+  <td>26</td><td>3</td><td>Contigo101</td><td>80</td><td><a href="https://github.com/rajayush012">Ayush Raj</a></td><td><a href="https://github.com/SamriddhiShrivas">Samriddhi Shrivas</a></td><td></td>
+  </tr>
    <tr>
-  <td>24</td><td>3</td><td>S.W.A.T</td><td>80</td><td><a href = "https://github.com/priyanshucode">Priyanshu Kumar</a></td><td></td><td></td>
+  <td>24</td><td>3</td><td>S.W.A.T</td><td>80</td><td><a href = "https://github.com/priyanshucode">Priyanshu Kumar</a></td><td><a href = "https://github.com/sportykush">Kushagra Singh</a></td><td></td>
   </tr>
   <tr>
-  <td>27</td><td>3</td><td>ADA</td><td>80</td><td><a href="https://github.com/drs-11">D R Siddhartha</a></td><td><a href="https://github.com/a-coder-hack">Avinish kumar</a></td><td></td>
+  <td>27</td><td>3</td><td>ADA</td><td>80</td><td><a href="https://github.com/drs-11">D R Siddhartha</a></td><td><a href="https://github.com/a-coder-hack">Avinish kumar</a></td><td><a href="https://github.com/ajitg1">Ajit Garg</a></td>
   </tr>
   <tr>
     <td>29</td><td>3</td><td>Kuch Bhi</td><td>80</td><td><a href = "https://github.com/nikunjagarwal321">Nikunj Agarwal</a></td><td><a href = "https://github.com/abbas5253">Abbas Ismail</td><td></td>
@@ -32,9 +35,14 @@
   <tr>
   <td>40</td><td>5</td><td>indian5230</td><td>60</td><td><a href="https://github.com/Rohit-5230">Rohit kumar singh</a></td><td></td><td></td>
   </tr>
+  <tr>   
+  <td>44</td><td>6</td><td>DCODER</td><td>50</td><td><a href="https://github.com/soumyajit4419">Soumyajit Behera</a></td><td></td><td></td>
+  </tr>
   <tr>
   <td>50</td><td>7</td><td>Dephinite</td><td>40</td><td><a href="https://github.com/ankan-ekansh">Ankan Ekansh</a></td><td></td><td><a href="https://github.com/aashirwad1">Aashirwad Kumar</a></td>
   </tr>
+ 
+  
   <tr>
   <td>55</td><td>7</td><td>Devtest</td><td>40</td><td><a href="https://github.com/akshaydesai26">Akshay Desai</a></td><td></td><td></td>
   </tr>
