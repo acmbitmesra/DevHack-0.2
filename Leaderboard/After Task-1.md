@@ -17,6 +17,9 @@
   <tr>
   <td>20</td><td>2</td><td>ITS_One</td><td>90</td><td><a href = "https://github.com/Abhinav-grd">Abhinav Kumar</a></td><td></td><td></td>
   </tr>
+  <tr>
+  <td>26</td><td>3</td><td>Contigo101</td><td>40</td><td><a href="https://github.com/rajayush012">Ayush Raj</a></td><td></td><td></td>
+  </tr>
    <tr>
   <td>24</td><td>3</td><td>S.W.A.T</td><td>80</td><td><a href = "https://github.com/priyanshucode">Priyanshu Kumar</a></td><td></td><td></td>
   </tr>
