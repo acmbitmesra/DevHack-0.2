@@ -18,7 +18,7 @@
   <td>20</td><td>2</td><td>ITS_One</td><td>90</td><td><a href = "https://github.com/Abhinav-grd">Abhinav Kumar</a></td><td></td><td></td>
   </tr>
    <tr>
-  <td>24</td><td>3</td><td>S.W.A.T</td><td>80</td><td><a href = "https://github.com/priyanshucode">Priyanshu Kumar</a></td><td></td><td></td>
+  <td>24</td><td>3</td><td>S.W.A.T</td><td>80</td><td><a href = "https://github.com/priyanshucode">Priyanshu Kumar</a></td><td><a href = "https://github.com/sportykush">Kushagra Singh</a></td><td></td>
   </tr>
   <tr>
   <td>27</td><td>3</td><td>ADA</td><td>80</td><td><a href="https://github.com/drs-11">D R Siddhartha</a></td><td><a href="https://github.com/a-coder-hack">Avinish kumar</a></td><td></td>
