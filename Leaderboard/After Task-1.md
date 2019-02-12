@@ -33,6 +33,19 @@
     <td>32</td><td>3</td><td>PACMEN</td><td>80</td><td><a href = "https://github.com/anshuman10398">Anshuman Singh</a></td><td><a href = "https://github.com/sohamantrolikar">Soham Antrolikar</a></td><td><a href = "https://github.com/chay2199">Chaitanya Tyagi</a></td>
   </tr>
   <tr>
+    <td>35</td>
+    <td>4</td>
+    <td>solo</td>
+    <td>70</td>
+    <td>
+      <a href="https://github.com/sazid18">Md. Sazid Khan</a>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
   <td>40</td><td>5</td><td>indian5230</td><td>60</td><td><a href="https://github.com/Rohit-5230">Rohit kumar singh</a></td><td></td><td></td>
   </tr>
   <tr>   
@@ -46,19 +59,7 @@
   <tr>
   <td>55</td><td>7</td><td>Devtest</td><td>40</td><td><a href="https://github.com/akshaydesai26">Akshay Desai</a></td><td></td><td></td>
   </tr>
-   <tr>
-    <td>35</td>
-    <td>4</td>
-    <td>solo</td>
-    <td>70</td>
-    <td>
-      <a href="https://github.com/sazid18">Md. Sazid Khan</a>
-    </td>
-    <td>
-    </td>
-    <td>
-    </td>
-  </tr>
+   
  
   
 </table>
