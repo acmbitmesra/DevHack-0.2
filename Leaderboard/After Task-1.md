@@ -46,6 +46,22 @@
   <tr>
   <td>55</td><td>7</td><td>Devtest</td><td>40</td><td><a href="https://github.com/akshaydesai26">Akshay Desai</a></td><td></td><td></td>
   </tr>
+   <tr>
+    <td>35</td>
+    <td>4</td>
+    <td>solo</td>
+    <td>70</td>
+    <td>
+      <a href="https://github.com/sazid18">Md. Sazid Khan</a>
+    </td>
+    <td>
+      <a href="https://github.com/vnisshant">Nishant Verma</a>
+    </td>
+    <td>
+      <a href="https://github.com/aakash2509">Akash Nainani</a>
+    </td>
+  </tr>
+ 
   
 </table>
 
