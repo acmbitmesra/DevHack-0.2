@@ -55,10 +55,8 @@
       <a href="https://github.com/sazid18">Md. Sazid Khan</a>
     </td>
     <td>
-      <a href="https://github.com/vnisshant">Nishant Verma</a>
     </td>
     <td>
-      <a href="https://github.com/aakash2509">Akash Nainani</a>
     </td>
   </tr>
  
