@@ -61,7 +61,7 @@
   </tr>
    
   <tr>
- <td>43</td><td>6</td><td>Apna_Time_Ayega</td><td>40</td><td><a href="https://github.com/amankumarkeshu">Aman Kumar</a></td><td></td><td></td>
+ <td>43</td><td>6</td><td>Apna_Time_Ayega</td><td>50</td><td><a href="https://github.com/amankumarkeshu">Aman Kumar</a></td><td></td><td></td>
   </tr>
  
   
