@@ -6,7 +6,13 @@
   <td>1</td><td>1</td><td>bug_hunters</td><td>100</td><td><a href="https://github.com/aryan2906">Aryan Khandelwal</a></td><td><a href="https://github.com/alokratn62">Tanmay Sinha</a></td><td><a href="https://github.com/IshaanG">Ishaan Gupta</a></td>
   </tr>
   <tr>
+  <td>6</td><td>1</td><td>Searching...</td><td>100</td><td><a href="https://github.com/SouravJain01">Sourav Jain</a></td>
+  </tr>
+  <tr>
     <td>9</td><td>1</td><td>Dank</td><td>100</td><td><a href = "https://github.com/madhavkauntia">Madhav Kauntia</a></td><td><a href="https://github.com/ygyash">Yash Goyal</a></td><td><a href="https://github.com/skbro">Sanskar Agarwal</a></td>
+  </tr>
+  <tr>
+    <td>12</td><td>2</td><td>Unicode</td><td>90</td><td><a href = "https://github.com/AdityaRajSingh">Aditya Raj Singh</a></td><td><a href="https://github.com/Manya1998">Manya Mansi</a></td><td></td>
   </tr>
   <tr>
     <td>15</td><td>2</td><td>Alpha_Q</td><td>90</td><td><a href = "https://github.com/shahayush457">Ayush Shah</a></td><td></td><td></td>
@@ -49,6 +55,10 @@
   <td>40</td><td>5</td><td>indian5230</td><td>60</td><td><a href="https://github.com/Rohit-5230">Rohit kumar singh</a></td><td></td><td></td>
   </tr>
   <tr>   
+      <tr>
+ <td>43</td><td>6</td><td>Apna_Time_Ayega</td><td>50</td><td><a href="https://github.com/amankumarkeshu">Aman Kumar</a></td><td></td><td></td>
+  </tr>
+    
   <td>44</td><td>6</td><td>DCODER</td><td>50</td><td><a href="https://github.com/soumyajit4419">Soumyajit Behera</a></td><td></td><td></td>
   </tr>
   <tr>
@@ -60,9 +70,8 @@
   <td>55</td><td>7</td><td>Devtest</td><td>40</td><td><a href="https://github.com/akshaydesai26">Akshay Desai</a></td><td></td><td></td>
   </tr>
    
- <tr>
-  <td>12</td><td>2</td><td>Unicode</td><td>90</td><td><a href="https://github.com/AdityaRajSingh">Aditya Raj Singh</a></td><td><a href="https://github.com/Manya1998">Manya Mansi</a></td><td></td>
-  </tr>
+
+ 
   
 </table>
 
