@@ -12,6 +12,9 @@
     <td>9</td><td>1</td><td>Dank</td><td>100</td><td><a href = "https://github.com/madhavkauntia">Madhav Kauntia</a></td><td><a href="https://github.com/ygyash">Yash Goyal</a></td><td><a href="https://github.com/skbro">Sanskar Agarwal</a></td>
   </tr>
   <tr>
+    <td>12</td><td>2</td><td>Unicode</td><td>90</td><td><a href = "https://github.com/AdityaRajSingh">Aditya Raj Singh</a></td><td></td><td></td>
+  </tr>
+  <tr>
     <td>15</td><td>2</td><td>Alpha_Q</td><td>90</td><td><a href = "https://github.com/shahayush457">Ayush Shah</a></td><td></td><td></td>
   </tr>
   <tr>
