@@ -74,7 +74,7 @@
   </tr>
   
   <tr>
-  <td>53</td><td>7</td><td>dev_noob</td><td>40</td><td><a href="https://github.com/namanvats">Naman Vats</a></td><td>       </td><td></td>
+  <td>53</td><td>7</td><td>dev_noob</td><td>40</td><td><a href="https://github.com/namanvats">Naman Vats</a></td><td><a href="https://github.com/goyaldhara">Dhara Goyal</a></td><td></td>
   </tr>
   
 </table>
