@@ -6,6 +6,8 @@
   <td>1</td><td>1</td><td>bug_hunters</td><td>100</td><td><a href="https://github.com/aryan2906">Aryan Khandelwal</a></td><td><a href="https://github.com/alokratn62">Tanmay Sinha</a></td><td><a href="https://github.com/IshaanG">Ishaan Gupta</a></td>
   </tr>
   <tr>
+    <td>3</td><td>1</td><td>n00b_coders</td><td>100</td><td><a href="https://github.com/PyAgni">Agni Bhattacharyya</a></td><td></td><td></td>
+  <tr>
   <td>6</td><td>1</td><td>Searching...</td><td>100</td><td><a href="https://github.com/SouravJain01">Sourav Jain</a></td><td><a href="https://github.com/Simardeep19">Simardeep Singh</a></td><td><a href="https://github.com/Ankajvi">Parag Mittal</a></td>
   </tr>
   <tr>
