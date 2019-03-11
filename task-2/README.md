@@ -10,4 +10,4 @@ You can access the tasks below:
   <li><a href="https://github.com/acmbitmesra/DevHack-0.2/blob/master/task-2/advance">Advance</a></li>
 </ul>
 
-<h3>The deadline for this task is 10th of March 2019.</h3>
+<h3>The deadline for this task is 18th of March 2019.</h3>
