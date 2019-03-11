@@ -9,7 +9,7 @@
   <td>6</td><td>1</td><td>Searching...</td><td>100</td><td><a href="https://github.com/SouravJain01">Sourav Jain</a></td><td><a href="https://github.com/Simardeep19">Simardeep Singh</a></td>
   </tr>
   <tr>
-    <td>8</td><td>1</td><td>Incognito</td><td>100</td><td><a href="https://github.com/scheleon">Shubham Kumar</a></td><td></td><td></td>
+    <td>8</td><td>1</td><td>Incognito</td><td>100</td><td><a href="https://github.com/scheleon">Shubham Kumar</a></td><td><a href="https://github.com/Bhavyakala">Bhavya Kala</a></td><td></td>
   </tr>
   <tr>
     <td>9</td><td>1</td><td>Dank</td><td>100</td><td><a href = "https://github.com/madhavkauntia">Madhav Kauntia</a></td><td><a href="https://github.com/ygyash">Yash Goyal</a></td><td><a href="https://github.com/skbro">Sanskar Agarwal</a></td>
