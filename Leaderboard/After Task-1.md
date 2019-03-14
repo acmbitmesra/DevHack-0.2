@@ -6,6 +6,8 @@
   <td>1</td><td>1</td><td>bug_hunters</td><td>100</td><td><a href="https://github.com/aryan2906">Aryan Khandelwal</a></td><td><a href="https://github.com/alokratn62">Tanmay Sinha</a></td><td><a href="https://github.com/IshaanG">Ishaan Gupta</a></td>
   </tr>
   <tr>
+    <td>3</td><td>1</td><td>n00b_coders</td><td>100</td><td><a href="https://github.com/PyAgni">Agni Bhattacharyya</a></td><td><a href="https://github.com/priyam125">Priyam</a></td><td></td>
+  <tr>
   <td>6</td><td>1</td><td>Searching...</td><td>100</td><td><a href="https://github.com/SouravJain01">Sourav Jain</a></td><td><a href="https://github.com/Simardeep19">Simardeep Singh</a></td><td><a href="https://github.com/Ankajvi">Parag Mittal</a></td>
   </tr>
   <tr>
@@ -22,6 +24,9 @@
   </tr>
   <tr>
     <td>16</td><td>2</td><td>_destroyingRecursively_</td><td>90</td><td><a href = "https://github.com/ankurdubey521">Ankur Dubey</a></td><td><a href = "https://github.com/saksham20189575">Saksham Arora</a></td><td></td>
+  </tr>
+  <tr>
+    <td>18</td><td>2</td><td>The Newbies</td><td>90</td><td><a href = "https://github.com/LoneWolfKJ">Kanjal Dalal</a></td><td><a href = "https://github.com/aayushgarg-03">Aayush Garg</a></td><td></td>
   </tr>
   <tr>
   <td>20</td><td>2</td><td>ITS_One</td><td>90</td><td><a href = "https://github.com/Abhinav-grd">Abhinav Kumar</a></td><td><a href = "https://github.com/RahulRexx">Rahul Agarwal</a></td><td></td>
@@ -72,16 +77,12 @@
   <td>50</td><td>7</td><td>Dephinite</td><td>40</td><td><a href="https://github.com/ankan-ekansh">Ankan Ekansh</a></td><td><a href="https://github.com/sucrose1729/">Himanshu Shekhar</a></td><td><a href="https://github.com/aashirwad1">Aashirwad Kumar</a></td>
   </tr>
  
-  <tr>
-  <td>53</td><td>7</td><td>dev_noob</td><td>40</td><td><a href="https://github.com/dvyn01">Divyanshu Pandey</a></td><td></td><td></td>
+  <td>53</td><td>7</td><td>dev_noob</td><td>40</td><td><a href="https://github.com/namanvats">Naman Vats</a></td><td><a href="https://github.com/goyaldhara">Dhara Goyal</a></td><td><a href="https://github.com/dvyn01">Divyanshu Pandey</a></td>
   </tr>
   
   <tr>
   <td>55</td><td>7</td><td>Devtest</td><td>40</td><td><a href="https://github.com/akshaydesai26">Akshay Desai</a></td><td></td><td></td>
   </tr>
-   
-
- 
   
 </table>
 
