@@ -77,9 +77,7 @@
   <td>50</td><td>7</td><td>Dephinite</td><td>40</td><td><a href="https://github.com/ankan-ekansh">Ankan Ekansh</a></td><td><a href="https://github.com/sucrose1729/">Himanshu Shekhar</a></td><td><a href="https://github.com/aashirwad1">Aashirwad Kumar</a></td>
   </tr>
  
- 
-   <tr>
-  <td>53</td><td>7</td><td>dev_noob</td><td>40</td><td><a href="https://github.com/namanvats">Naman Vats</a></td><td><a href="https://github.com/goyaldhara">Dhara Goyal</a></td><td></td>
+  <td>53</td><td>7</td><td>dev_noob</td><td>40</td><td><a href="https://github.com/namanvats">Naman Vats</a></td><td><a href="https://github.com/goyaldhara">Dhara Goyal</a></td><td><a href="https://github.com/dvyn01">Divyanshu Pandey</a></td>
   </tr>
   
   <tr>
