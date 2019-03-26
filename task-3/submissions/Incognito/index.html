@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Mini-Office</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>
+            var orderedListCount=1;
+            var unorderedListCount=1;
+        </script>
+        <script src="js/event.js"></script>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+        <div id="textEditor">
+            <div id="theRibbon">
+                <img src="icons/bold.png"  id="boldButton" title="Bold"></img >
+                <img src="icons/italic.png"  id="italicButton" title="Italic"></img >
+                <img src="icons/superscript.png"  id="supButton" title="Superscript"></img >
+                <img src="icons/subscript.png"  id="subButton" title="Subscript"></img >
+                <img src="icons/strikethrough.png"  id="strikeButton" title="Strikethrough"></img >
+                <img src="icons/list-1.png"  id="orderedListButton" title="Numbered List"></img >
+                <img src="icons/list.png"  id="unorderedListButton" title="Bulleted list"></img >
+                <input type="color" id="fontColorChange" title="Change Font Color">
+                <input type="color" id="highlightText" title="Highlight Text">
+                
+                <select id="fontChange" title="Font Style">
+                    <option id="font0" value="Times New Roman">Times New Roman</option>
+                    <option id="font1" value="Arial Black">Arial Black</option>
+                    <option id="font2" value="Comic Sans MS">Comic Sans MS</option>
+                    <option id="font3" value="Impact">Impact</option>
+                    <option id="font4" value="Lucida Sans Unicode">Lucida Sans Unicode</option>
+                    <option id="font5" value="Courier New">Courier New</option>
+                    <option id="font6" value="Monospace">Monospace</option>
+                </select>  
+                
+                <select id="fontSizeChange" title="Font Size">
+                    <script>
+                        for(var i = 1 ; i <= 10 ; i++){
+                            document.write("<option value='" +i+ "'>" +i+ "</option>");   
+                        }
+                    </script> 
+                </select>
+                
+                <img src="icons/link.png"  id="link_url" title="Add Link"></img >
+                <img src="icons/broken-link.png"  id="unLink" title="Remove Link"></img >
+                <img src="icons/undo.png"  id="undoClick" title="Undo the previous action"></img >
+                <img src="icons/redo.png"  id="redoClick" title="Redo"></img >
+                <img src="icons/save.png"  id="saveButton" title="Save"></img >
+
+                <select id="openFile" title="Open File">
+                    <option id="newFile" value="newFile">New</option>
+                    <script src="js/localStorage.js">
+                    </script> 
+                </select>
+            </div>
+            <div id="richTextArea">
+                <iframe id="theEditorFrame" name="editorFrame" frameborder="0" style="position: relative; height: 100%; width: 100%;">
+                </iframe>
+            </div>
+        </div>
+        <br><br><br><br>
+        <div id="quoteText">
+            <center><h1><i><b>"Writing is an exploration. Yout start from nothing and learn as you go.<sub> E. L. Doctorow </sub></b></i>"</h1></center>
+        </div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" ></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <script src="js/editor.js" async defer></script>
+    </body>
+</html>
