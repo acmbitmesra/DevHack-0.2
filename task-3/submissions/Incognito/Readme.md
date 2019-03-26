@@ -15,10 +15,11 @@ It creates an iframe in the html document and you will be using that area to edi
 Whenever you click a button and make a change the html content of the iframe is appended with the corresponding tag, 
 thus making oyur changes visible in the working area.
 
+![Screenshot-1](https://i.ibb.co/VVGZZ3m/Screenshot-at-2019-03-26-15-14-59-1.png)
+
 <h2>How to use it ?</h2>
 Its as simple as eating potato chips with Iron Man on the screen. You get the standard doucument editing buttons above the 
 working area like <b>B</b> for bold, <i>I</i> for italic etc.and to change the font color click the button and you get variety 
 of choices to choose from.
 
-![Screenshot-1](https://i.ibb.co/VVGZZ3m/Screenshot-at-2019-03-26-15-14-59-1.png)
 ![Working-area](https://i.ibb.co/BfbyLFg/Screenshot-at-2019-03-26-15-14-59-2.png)
