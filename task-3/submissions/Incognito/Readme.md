@@ -20,4 +20,5 @@ Its as simple as eating potato chips with Iron Man on the screen. You get the st
 working area like <b>B</b> for bold, <i>I</i> for italic etc.and to change the font color click the button and you get variety 
 of choices to choose from.
 
-![Screenshot](https://i.ibb.co/x7kH8nr/Screenshot-at-2019-03-26-15-14-59.png)
+![Screenshot-1](https://i.ibb.co/VVGZZ3m/Screenshot-at-2019-03-26-15-14-59-1.png)
+![Working-area](https://i.ibb.co/BfbyLFg/Screenshot-at-2019-03-26-15-14-59-2.png)
