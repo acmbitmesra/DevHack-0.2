@@ -4,8 +4,11 @@ Members-<br/>
 Member 1: Abhinav kumar (https://github.com/abhinav-grd)<br/>
 Member 2: Rahul Agarwal (https://github.com/RahulRexx)<br/>
 
-
+<br>
+<br>
 The Text editor App is hosted on - <a href="https://online-text-editor.herokuapp.com/">Online-text-editor</a>
+<br>
+<br>
 </br>
 <h2>Online WYSWYG (What You See Is What You Get) Text Editor</h2>
 This web app can be used to create and edit documents using features like bullets, bold, italic, font_color etc.
@@ -19,12 +22,15 @@ A DIV tag is used as a textpad by making it editable by setting its Contentedita
 This is First page of the App with empty text area
 <br>
 <br>
+<br>
 <img src="./screenshots/basic.png">
 Various features of the text editor are demostrated in this screenshots like font size, font color, bullet points etc.
 <br>
 <br>
+<br>
 <img src="./screenshots/image_input.png">
 Image Upload and Embedded are also supported.
+<br>
 <br>
 <br>
 
