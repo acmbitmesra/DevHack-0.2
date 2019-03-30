@@ -18,6 +18,7 @@ Coordinators for the event:<ul>
 <li><a href="https://github.com/acmbitmesra/DevHack-0.2/tree/master/task-1#task-1-local-website-hosting">Task-1</a></li>
 <li><a href="https://github.com/acmbitmesra/DevHack-0.2/tree/master/task-2">Task-2</a></li>
 <li><a href="https://github.com/acmbitmesra/DevHack-0.2/blob/master/task-3">Task-3</a></li>
+<li><a href="https://github.com/acmbitmesra/DevHack-0.2/tree/master/task-4">Task-4</a></li>
 </ol>
 <br />
 
