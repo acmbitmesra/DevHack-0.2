@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>Text Editor</title>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	</head>
+	<body onload="enableEditMode();">
+		<h1>Team: Unicode</h1>
+		<div>
+			<button onclick="execCmd('bold');"><i class="fa fa-bold"></i></button>
+			<button onclick="execCmd('italic');"><i class="fa fa-italic"></i></button>
+			<button onclick="execCmd('underline');"><i class="fa fa-underline"></i></button>
+			<button onclick="execCmd('strikeThrough');"><i class="fa fa-strikethrough"></i></button>
+			<button onclick="execCmd('justifyLeft');"><i class="fa fa-align-left"></i></button>
+			<button onclick="execCmd('justifyCenter');"><i class="fa fa-align-center"></i></button>
+			<button onclick="execCmd('justifyRight');"><i class="fa fa-align-right"></i></button>
+			<button onclick="execCmd('justifyFull');"><i class="fa fa-align-justify"></i></button>
+			<button onclick="execCmd('insertUnorderedList');"><i class="fa fa-list-ul"></i></button>
+			<button onclick="execCmd('insertOrderedList');"><i class="fa fa-list-ol"></i></button>
+			<button onclick="execCommandWithArg('insertImage', prompt('Enter the image URL', ''));"><i class="far fa-file-image"></i></button>
+			<br />
+			<br>
+			<select onchange="execCommandWithArg('fontName', this.value);">
+				<option value="Arial">Arial</option>
+				<option value="Comic Sans MS">Comic Sans MS</option>
+				<option value="Courier">Courier</option>
+				<option value="Georgia">Georgia</option>
+				<option value="Tahoma">Tahoma</option>
+				<option value="Times New Roman">Times New Roman</option>
+				<option value="Verdana">Verdana</option>
+			</select>
+			<select onchange="execCommandWithArg('fontSize', this.value);">
+				<option value="1">1</option>
+				<option value="2">2</option>
+				<option value="3">3</option>
+				<option value="4">4</option>
+				<option value="5">5</option>
+				<option value="6">6</option>
+				<option value="7">7</option>
+			</select>
+			Text Color: <input type="color" onchange="execCommandWithArg('foreColor', this.value);">
+			Background Color: <input type="color"  onchange="execCommandWithArg('hiliteColor', this.value);">
+			
+		</div>
+		<form>
+			
+			<iframe name="richTextField" id="content" style="width: 1000px; height: 500px;"></iframe>
+			<br>
+			<input type="button" onClick="execCmd('SaveAs') " value="Save">
+			</form>
+		
+		<script type="text/javascript">
+
+			var showingSourceCode = false;
+			var isInEditMode = true;
+
+			function enableEditMode () {
+				richTextField.document.designMode = 'On';
+			}
+
+			function execCmd (command) {
+				richTextField.document.execCommand(command, false, null);
+			}
+
+			function execCommandWithArg (command, arg) {
+				richTextField.document.execCommand(command, false, arg);
+			}
+
+		</script>
+	</body>
+</html>

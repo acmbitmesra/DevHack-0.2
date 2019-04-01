@@ -5,7 +5,7 @@ A simple web text editor with various functions supported like Bold, Italic, Bul
 ## Team- Unicode
 
 * Member 1-  [Aditya Raj Singh](https://github.com/AdityaRajSingh)
-* Member 1-  [Manya Mansi](https://github.com/manya1998)
+* Member 2-  [Manya Mansi](https://github.com/manya1998)
 
 ### Approach
 
