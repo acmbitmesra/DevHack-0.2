@@ -20,7 +20,7 @@ We have given it a feel of MS Word with various buttons to edit text, add color 
 
 
 
-## Acknowledgments
+## Refrences
 
 * https://www.froala.com/wysiwyg-editor
 * https://stackoverflow.com/
