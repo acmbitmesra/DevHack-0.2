@@ -1,0 +1,78 @@
+  body {
+    background-image: url("background.jpg");
+    max-width: 100%;
+  }
+  div#textEditor {
+    margin: 0 auto;
+    padding-top: 30px;
+    max-width: 100%;
+    width: 80%;
+    height: 600px;
+  }
+  
+  div#theRibbon {
+    border-bottom: none;
+    padding: 10px;
+    background:
+    linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+    linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+    linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+    linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+    linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+    linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;
+    color: white; 
+    border-radius: 14px 14px 0 0;
+    text-align: center;
+  }
+  div#richTextArea {
+      background-color: rgb(255, 255, 255); background-image: linear-gradient(90deg, transparent 79px, rgb(171, 206, 212) 79px, rgb(171, 206, 212) 81px, transparent 81px), linear-gradient(rgb(238, 238, 238) 0.1em, transparent 0.1em); background-size: 100% 1.2em; --darkreader-inline-bgcolor:#17181c; --darkreader-inline-bgimage:linear-gradient(90deg, rgba(0, 0, 0, 0) 79px, #223e43 79px, #223e43 81px, rgba(0, 0, 0, 0) 81px), linear-gradient(#1b1d22 0.1em, rgba(0, 0, 0, 0) 0.1em);
+      height: 100%;
+      width: 100%;
+      border-radius: 0 0 8px 8px;
+  }
+
+  div#theRibbon > img {
+      vertical-align: middle;
+      background-color: transparent;
+      padding: 8px;
+      font-size: 18px;
+      cursor: pointer;
+      border: none;
+      width: 22px !important;
+      height: 22px !important;
+      display: inline;
+      transition: 0.3s; 
+  }
+  
+  div#theRibbon > select {
+    vertical-align: middle;
+    height: 32px;
+  }
+
+  div#theRibbon > input[type="color"] {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    vertical-align: middle;
+    height: 28px;
+  }
+
+  div#theRibbon > img:hover {
+      background-color: lightgray;
+      border-radius: 6px;
+      color: inherit;
+      opacity: 0.8;
+  }
+  #quoteText {
+    color: black;
+  }
+  div#descriptionSection {
+    align-items: center;
+    width: 30%;
+    height: 18%;
+    border-radius: 6px;
+    background-color: rgb(145, 149, 150);
+  }
+  
