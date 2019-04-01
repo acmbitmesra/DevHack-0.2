@@ -22,6 +22,6 @@ We have given it a feel of MS Word with various buttons to edit text, add color 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* https://www.froala.com/wysiwyg-editor
+* https://stackoverflow.com/
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript
