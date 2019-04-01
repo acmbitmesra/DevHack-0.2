@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>ADA Team - Text Editor</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+        <style>
+            body{
+    margin:0;
+}
+
+.team{
+    margin-top: 0;
+    color: #fff;
+    background-image: linear-gradient(to right bottom,rgb(15, 230, 238),rgba(33, 9, 170, 0.8));
+    height:200px;
+    text-align: center;
+}
+
+.name{
+    padding:10px;
+    font-size:50px;
+}
+
+.editor{
+    background-color:#fff;
+    width:60%;
+    margin: 0 auto;
+    transform: translateY(-120px);
+}
+
+#nav{
+    background-image: linear-gradient(to right bottom,rgb(126,213,111,0.8),rgba(40,180,131,0.8));
+    padding: 5px 10px;
+}
+
+button{
+    color:white;
+    border:none;
+    outline:none;
+    background-color: transparent;
+    cursor:pointer;
+}
+
+button:hover{
+    background-color: greenyellow;
+    transition-duration: 0.3s;
+}
+#text{
+    border: 2px solid rgba(0, 90, 0, 0.705);
+    box-sizing: border-box;
+    padding:20px;
+    width: 100%;
+    min-height: 370px;
+}
+
+input[type="color"]{
+    border: none;
+    outline:none;
+    background-color: transparent;
+}
+        </style>
+    </head>
+    <body>
+       <h1 class="team">
+           <div class="name">ADA Team</div>
+       </h1>
+       <div class="editor">
+           <div id="nav">
+                <button id="boldbutton" title="Bold"><b>B</b></button>
+                <button id="italicbutton" title="Italic"><b>I</b></button>
+                <button id="underlinebutton" title="Underline"><b>U</b></button>
+                <button id="unorderedlist" title="bulletlist"><b>&bull;</b></button>
+                <select id="fontchanger">
+                        <option value="Times New Roman">Times New Roman</option>
+                        <option value="Consolas">Consolas</option>
+                        <option value="Cursive">Cursive</option>
+                        <option value="Arial">Arial</option>
+                    </select>
+                    <select id="fontSizeChanger">
+                        <script>
+                            for(var i=1;i<11;i++){
+                            document.write("<option value='"+i+"'>"+i+"</option>");}
+                        </script>
+                    </select>
+                <input type="color" id="font_color" title="Change font color">
+                <button id="image_adder" title="Add Image"><b>Image</b></button>
+                <select id="file" >
+                        <script>
+                                for(var i=0;i<localStorage["j"];i++){
+                                document.write("<option value='"+i+"'>User"+i+"</option>");}
+                            </script>
+                </select>
+                <button id="save" title="Save the file"><b>Save</b></button>
+           </div>
+           <div id="text" contenteditable="true"></div>
+       </div>
+        <script src="" async defer></script>
+
+
+
+        <script>
+            if(!localStorage["j"]){
+            localStorage.setItem("j", 1);}
+            var clickbold=0;
+            localStorage.setItem(0,"Default text");
+
+window.addEventListener("load",function(){
+    var editor= document.getElementById("text");
+    editor.focus();
+
+    boldbutton.addEventListener("click",function(){
+        document.execCommand("Bold");
+        editor.focus();
+    },false);
+    italicbutton.addEventListener("click",function(){
+        document.execCommand("Italic");
+        editor.focus();
+    },false);
+    underlinebutton.addEventListener("click",function(){
+        document.execCommand("Underline");
+        editor.focus();
+    },false);
+    unorderedlist.addEventListener("click",function(){
+        document.execCommand("InsertUnorderedList");
+        editor.focus();
+    },false);
+    font_color.addEventListener("change",function(event){
+        document.execCommand("ForeColor",false,event.target.value);
+        editor.focus();
+    },false);
+    fontchanger.addEventListener("change",function(event){
+        document.execCommand("FontName",false,event.target.value);
+        editor.focus();
+    },false)
+    fontSizeChanger.addEventListener("change",function(event){
+        document.execCommand("fontSize",false,event.target.value);
+        editor.focus();
+    },false);
+    image_adder.addEventListener("click",function(){
+        var src = prompt('Please specify the link of the image.');
+        if(src){
+        document.execCommand("insertimage",false,src);}
+        editor.focus();
+    },false);
+    save.addEventListener("click",function(){
+        localStorage.setItem( localStorage["j"],localStorage[i]);
+        localStorage[localStorage["j"]] = document.getElementById("text").innerHTML;
+        console.log(document.getElementById("text").innerHTML);
+        localStorage["j"]++;
+        alert("File Saved");
+        editor.focus();
+    },false);
+    file.addEventListener("change",function(event){
+        document.getElementById("text").innerHTML=localStorage[event.target.value];
+        alert("File opened");
+        editor.focus();
+    },false);
+    
+},false);
+
+
+var fonts= document.querySelectorAll("select#fontchanger > option");
+    for(var i=0;i < fonts.length;i++)
+        fonts[i].style.fontFamily = fonts[i].value
+
+
+// document.getElementById("text").innerHTML =
+//   localStorage["text"] || "This text is automatically saved every second :) "; // default text
+
+// setInterval(function() {
+
+//   localStorage["text"] = document.getElementById("text").innerHTML; // content div
+// }, 10);
+
+        </script>
+    </body>
+</html>
