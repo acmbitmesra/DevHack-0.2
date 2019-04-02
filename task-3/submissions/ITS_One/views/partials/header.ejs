@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>MY editor</title>
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+    integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/main.css">
+</head>
+
+<body onload="initDoc();">
+  <!--<h1 id="heading">A WYSWYG Editor</h1>-->
+  <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="/">WYSWYG Editor</a>
+
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" id="save-btn" onclick="update_doc()" >Save</a>
+      </li>
+  </nav>
+  <div id="editor">
+    <div id="description-bar">
+      <label for="Formatting">Formatting</label>
+      <label for="font">Font</label>
+      <label for="font-size">Font Size</label>
+      <label for="font-color">Font Color</label>
+      <label for="bg-color">Highlight Color</label>
+    </div>
+    <div id="toolbar-1" class="toolbar">
+      <select class="form-control" name=" formatBlock " id="Formatting"
+        onchange="formatDoc('formatblock',this[this.selectedIndex].value);">
+        <option value="p">Paragraph &lt;p&gt;</option>
+        <option value="h1">Title 1 &lt;h1&gt;</option>
+        <option value="h2">Title 2 &lt;h2&gt;</option>
+        <option value="h3">Title 3 &lt;h3&gt;</option>
+        <option value="h4">Title 4 &lt;h4&gt;</option>
+        <option value="h5">Title 5 &lt;h5&gt;</option>
+        <option value="h6">Subtitle &lt;h6&gt;</option>
+        <option value="pre">Preformatted &lt;pre&gt;</option>
+      </select>
+
+      <select class="form-control" id="font" onchange="formatDoc('fontname',this[this.selectedIndex].value);">
+        <option>Arial</option>
+        <option>Arial Black</option>
+        <option>Courier New</option>
+        <option>Times New Roman</option>
+      </select>
+
+
+      <select class="form-control" id="font-size" onchange="formatDoc('fontsize',this[this.selectedIndex].value);">
+        <option value="1px">1px</option>
+        <option value="2px">2px</option>
+        <option value="3px">3px</option>
+        <option value="4px">4px</option>
+        <option value="5px">5px</option>
+        <option value="6px">6px</option>
+        <option value="7px">7px</option>
+      </select>
+
+
+      <select class="form-control" id="forecolor" onchange="formatDoc('forecolor',this[this.selectedIndex].value);">
+        <option value="black">Black</option>
+        <option value="red">Red</option>
+        <option value="blue">Blue</option>
+        <option value="green">Green</option>
+      </select>
+
+
+      <select class="form-control" id="backcolor" onchange="formatDoc('backcolor',this[this.selectedIndex].value);">
+        <option value="white">white</option>
+        <option value="red">Red</option>
+        <option value="green">Green</option>
+        <option value="black">Black</option>
+      </select>
+    </div>
+    <div id="toolbar-2" class="toolbar">
+      <a class="independent" id="bold" title="Bold" onclick="formatDoc('bold');" href="#"><i class="fas fa-bold"></i></a>
+      <a class="independent" id="italic" title="Italic" onclick="formatDoc('italic');" href="#"><i class="fas fa-italic"></i></a>
+      <a class="independent" id="strikethrough" title="strikethrough" onclick="formatDoc('strikethrough');" href="#"><i
+          class="fas fa-strikethrough"></i></a>
+      <a class="independent"id="underline" title="Underline" onclick="formatDoc('underline');" href="#"><i
+          class="fas fa-underline"></i></a>
+      <a class="align selected"  title="left-align" onclick="formatDoc('justifyLeft');" href="#"><i
+          class="fas fa-align-left"></i></a>
+      <a class=" align" title="right-align" onclick="formatDoc('justifyRight');" href="#"><i
+          class="fas fa-align-right"></i></a>
+      <a class=" align" title="center-align" onclick="formatDoc('justifyCenter');" href="#"><i
+          class="fas fa-align-center"></i></a>
+      <a class=" align" title="Justify-content" onclick="formatDoc('justifyFull');" href="#"><i
+          class="fas fa-align-justify"></i></a>
+      
+      <a class="list" title="ol" onclick="formatDoc('insertOrderedList');" href="#"><i
+          class="fas fa-list-ol"></i></a>
+      <a class="list" title="ul" onclick="formatDoc('insertUnorderedList');" href="#"><i
+          class="fas fa-list-ul"></i></a>
+
+      <a  title="indent" onclick="formatDoc('indent');" href="#"><i class="fas fa-indent"></i></a>
+      <a  title="outdent" onclick="formatDoc('outdent');" href="#"><i class="fas fa-outdent"></i></a>
+
+      <a  title="Add link" id="link_btn" href="#" data-toggle="modal" data-target="#url_input_form"><i
+          class="fas fa-link"></i></a>
+      <a  title="Add Image" href="#" data-toggle="modal" data-target="#image_input_form"><i
+          class="fas fa-image"></i></a>
+      <a title="save" onclick="update_doc();" href="#"><i class="fas fa-save"></i></a>
+
+      <button id="dark_btn" class="btn btn-dark" onclick="$('#editor-textbox').toggleClass('DarkMode');">Dark mode</button>
+    </div>

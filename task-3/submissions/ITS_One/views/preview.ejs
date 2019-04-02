@@ -1,0 +1,32 @@
+<%include partials/header%>
+ <div id="saved" class="alert alert-success alert-dismissible fade" style='display:none;' role="alert">
+  Document Saved
+</div>
+<div class="alert alert-success alert-dismissible fade show" role="alert">
+  To Share the Document or to open the document Copy the link(URL of this Page)- <br>
+  <p id="share_link"></p>
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+<div id="editor-textbox">
+    </div>
+    <button id="edit_btn" class="btn btn-success">Edit Mode</button>
+  </div>
+ <script src="../scripts/libs/jquery.js"></script>
+  <script src="../scripts/main.js"></script>
+  <script>
+    var s="<%=doc.content%>";
+  function decodeHtml(html) {
+    var txt = document.createElement("textarea");
+    txt.innerHTML = html;
+    return txt.value;
+}
+var q=decodeHtml(s)
+  //decodeURIComponent(uri_enc);
+  $("#editor-textbox").html(q);
+  </script>
+  <script src="../scripts/preview.js"></script>
+  <script src ="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
