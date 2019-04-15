@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Website Habit Traker",
+  "description": "Tracks the number of times you visted a site in the given time period",
+  "version": "0.1",
+  "author":"Abhinav Kumar",
+  "icons":{
+    "128":"images/icon2.png"
+  },
+  "browser_action": {
+    "default_icon": "images/icon1.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "history"
+  ]
+}

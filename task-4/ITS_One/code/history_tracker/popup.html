@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <style>
+          body{
+              width:100%;
+              height: auto;
+          }
+          label
+          {
+              font-size: 15px;
+          }
+          input{
+              margin-bottom: 10px;
+          }
+        button , input[type="text"] ,select{
+          height: 30px;
+          width: 200px;
+          outline: none;
+        }
+        select{
+          margin-bottom: 5px;
+        }
+      </style>
+    </head>
+    <body>
+        <h1>History traker</h1>
+       <label for="page_url" placeholder="www.example.com">Site's Url</label>
+        <input type="text"  id="page_url">
+        <select name="" id="duration">
+          <option value="1">Last Hour</option>
+          <option value="24">Last 24 Hour</option>
+          <option value="168">Last 7 days</option>
+          <option value="672">Last 4 weeks</option>
+          <option value="100000">All Time</option>
+        </select>
+        <input id ="exact" type="checkbox">
+        <label for="exact"> Exact Match</label>
+        <div id="output"></div>
+      <button id="submit">Search</button>
+      <script src="./jquery.js"></script>
+      <script src="./popup.js"></script>
+    </body>
+  </html>
