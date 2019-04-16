@@ -2,15 +2,14 @@
     "manifest_version": 2,
   
     "name": "Website Habit Tracker",
-    "description": "This extension will help you to track a website.",
-    "version": "1.0",
+    "description": "This extension will help you to track the number of times you visit a website.",
+    "version": "1.1",
   
     "browser_action": {
      "default_icon": "icon.png",
      "default_popup": "popup.html"
     },
     "permissions": [
-     "activeTab",
-     "history","tabs", "<all_urls>"
+     "history"
      ]
   }
